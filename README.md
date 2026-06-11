@@ -114,7 +114,7 @@ Developed WordPress websites, e-commerce stores, branding assets, and custom bus
 
 - Portfolio: https://dahy.dev
 - LinkedIn: https://linkedin.com/in/malek-dahy
-- Email: malekdahy8@gmail.com
+- Email: malek@dahy.dev
 
 ---
 
