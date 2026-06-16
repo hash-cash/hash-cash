@@ -8,16 +8,6 @@ Currently working on enterprise software, mobile applications, and custom busine
 
 ---
 
-## 🚀 What I'm Working On
-
-- Enterprise Risk Management System (ERMS)
-- Custom E-Commerce Platforms
-- Mobile Applications with React Native
-- AI-Powered Business Solutions
-- Shopify & E-Commerce Integrations
-
----
-
 ## 🏆 Featured Projects
 
 ### Enterprise Risk Management System (ERMS)
